@@ -12,4 +12,4 @@ All my work is free and open-source. Anyone sells anywhere or misuses, you can d
 
 ### Latest Updates
 
--PDEJ: https://github.com/PMTDVA/PDEJ
+- PDEJ: https://github.com/PMTDVA/PDEJ
