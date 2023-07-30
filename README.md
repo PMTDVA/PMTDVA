@@ -26,4 +26,4 @@ Check out my latest project:
 
 - GitHub: [PMTDVA]([https://github.com/Your-GitHub-Username](https://github.com/PMTDVA))
 - Youtube [PMTDVA](https://www.youtube.com/channel/UCJYhw3GTP6hvoxNgevGfXBg)
-- Discord: [My Discord](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbTB1ejJLQ29JOEMxTUhERUdWdjhocm1IVi1DUXxBQ3Jtc0tudjlvREFweUZwYWlhb0VtVTVzMkltSlNzaFVVbFdDY0ptNW1WakxzTlhBVnJZZmxZYV92bmM5ckh4RU1YRk1QaUl4NmlsRkhEVFFETm9ZYUFkU1pmU2ZVVDFSNl9UVmxNMC1fYjBMTnF1WUlNODd3UQ&q=https%3A%2F%2Fdiscord.gg%2Fd5kup5xcKz) <!-- Replace with your Discord username and tag -->
+- Discord: [My Discord](https://discord.com/invite/d5kup5xcKz) <!-- Replace with your Discord username and tag -->
