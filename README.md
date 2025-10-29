@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate programmer and developer currently working on **Project_Eve**. My interests lie in exploring the world of technology and software development.
+I'm a passionate programmer and developer and my interests lie in exploring the world of technology and software development.
 
 ## About Me
 
