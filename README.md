@@ -5,7 +5,7 @@ I'm a passionate programmer and developer currently working on **Project_Eve**. 
 ## About Me
 
 - 🌱 I'm currently focusing on honing my skills in **KOTLIN**.
-- 💬 Ask me anything related to **Python**, and **C#**; I'll be glad to help!
+- 💬 Ask me anything related to **Python**, and **Java**; I'll be glad to help!
 - 📫 Reach out to me on Discord.
 
 ## Get to know me!
